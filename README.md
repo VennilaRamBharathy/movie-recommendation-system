@@ -40,15 +40,7 @@ The purpose of a recommendation system basically is to search for content that w
 
 	- Only famous items will get reccomended .
 
-	- New items might not get reccomended at all .   
-
-### 3 ) Hybrid Based :
-	
-- Hybrid systems, which combine both types of information with the aim of avoiding problems that are generated when working with just one kind.
-
-- Combination of both and used now a days .
-
-- Uses : word2vec , embedding .           
+	- New items might not get reccomended at all .        
 
 # About this project:
 
